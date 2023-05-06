@@ -1,8 +1,8 @@
 # README
 - I am not responsible for any damages caused.
-- I am not the creator of this exploit, nor involved in the development team; ask me to take it down if you want, my Discord tag is ...WinVienna!!#8724 or my YouTube Channel: Lewis's Channel.
+- I am not the creator of this exploit, nor involved in the development team; ask me to take it down if you want, my Discord tag is ...ImGarrett#0119 or my YouTube Channel: iGarrettL.
 
-<img align="left" height="120" src="https://www.pngmart.com/files/5/Celery-Transparent-PNG.png" alt="palera1n logo" style="float: left;"/>
+<img align="left" height="120" src="https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg"/>
 
 # Celery (level 7 exploit)
 The new level 7 Roblox exploit that BYPASSES BYFRON using UWP-Microsoft Store measures. This is very powerful because Roblox currently has Byfron on their clients and they removed access of joining games in 32-bit.
